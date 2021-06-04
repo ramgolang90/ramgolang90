@@ -3,7 +3,7 @@
 
 *In order to run the project we need to follow few steps*
 
-- Clone this project using the URL
+- Clone this project using the URL > https://github.com/ramgolang90/ramgolang90.git
 - Make sure that project is in GOPATH (go/src/project) and GOROOT is setup (go/bin/) 
 - after that run below command in terminal
 ```bash
