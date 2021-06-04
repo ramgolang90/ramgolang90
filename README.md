@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to the repository 👋
 
-<!--
-**ramgolang90/ramgolang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*In order to run the project we need to follow few steps*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Clone this project using the URL
+- Make sure that project is in GOPATH (go/src/project) and GOROOT is setup (go/bin/) 
+- after that run below command in terminal
+```bash
+  $ go run main.go
+```
+- After running that command go to the below URL
+
+> http://localhost:8080/currency/ETHBTC
+
+> http://localhost:8080/currency/all
+
+### Before click on the URL please make sure the program is running
+
